@@ -1,0 +1,8 @@
+target
+.idea
+.classpath
+.factorypath
+.project
+.settings/
+/.DS_Store
+*.bak
